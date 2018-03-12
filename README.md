@@ -7,17 +7,17 @@
 
 <h2> Regole del gruppo:</h2>
 
-E' richiesto un linguaggio moderato che non vada ad offendere nessun utente, pertanto è vietato assumere atteggiamenti provocatori o sbeffeggiatori nei confronti degli altri membri del gruppo.
+E' richiesto un linguaggio moderato che non vada ad offendere nessun utente, pertanto è <b>vietato</b> assumere atteggiamenti provocatori o sbeffeggiatori nei confronti degli altri membri del gruppo.
 
-Postare sempre i link in chiaro, vietato quindi usare servizi per abbreviazioni e/o oscuramento dell’indirizzo postato.
+Postare sempre i link in chiaro, <b>vietato</b> quindi usare servizi per abbreviazioni e/o oscuramento dell’indirizzo postato.
 
-Evitare di usare lo spazio del gruppo per promuovere una propria attività online.
+<b>Vietato</b> utilizzare lo spazio del gruppo per promuovere una propria attività online.
 
-Vietato linkare altri gruppi senza ottenere prima il consenso di un admin.
+<b>Vietato</b> linkare altri gruppi senza il consenso di un admin.
 
-VIETATI I LINK REF
+<b>Vietati</b> i link ref
 
-Argomenti riguardanti altre criptovalute diverse da NEO e dai suoi asset sono vietati.
+Argomenti riguardanti altre criptovalute diverse da NEO e dai suoi asset sono <b>vietati</b>.
 
 <h2> FAQ </h2>
 
