@@ -15,7 +15,7 @@ Postare sempre i link in chiaro, <b>vietato</b> quindi usare servizi per abbrevi
 
 <b>Vietato</b> linkare altri gruppi senza il consenso di un admin.
 
-<b>Vietati</b> i link ref
+<b>Vietati</b> i link ref, anche riguardanti NEP-5
 
 Argomenti riguardanti altre criptovalute diverse da NEO e dai suoi asset sono <b>vietati</b>.
 
